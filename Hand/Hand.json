@@ -1,0 +1,39 @@
+{
+    "Test": {
+        "paper": {
+            "file": 108
+        },
+        "rock": {
+            "file": 110
+        },
+        "scissors": {
+            "file": 113
+        },
+        "file": 0
+    },
+    "train": {
+        "paper": {
+            "file": 498
+        },
+        "rock": {
+            "file": 508
+        },
+        "scissors": {
+            "file": 525
+        },
+        "file": 0
+    },
+    "val": {
+        "paper": {
+            "file": 106
+        },
+        "rock": {
+            "file": 108
+        },
+        "scissors": {
+            "file": 112
+        },
+        "file": 0
+    },
+    "file": 0
+}
